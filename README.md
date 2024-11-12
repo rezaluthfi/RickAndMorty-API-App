@@ -2,7 +2,7 @@
 Aplikasi ini berisi beberapa data yang dimiliki oleh karakter yang ada pada API Rick And Morty. Data-data tersebut ditampilkan menggunakan RecyclerView dan Glide untuk gambar dengan tambahan fungsionalitas search sehingga user dapat mencari data karakter yang diinginkan dengan melakukan search.
 
 # 🎞️Demo RickAndMorty App (Youtube)
-![🔗Click Here to Watching!](https://youtu.be/nogdIekJUrc)
+#### [🔗Click Here to Watching!](https://youtu.be/nogdIekJUrc)
 
 # 🖵Screenshoot
 <div style="display: flex;">
