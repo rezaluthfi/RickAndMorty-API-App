@@ -1,6 +1,5 @@
 package com.example.rickandmortyapiapp.network
 
-import com.google.gson.annotations.SerializedName
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

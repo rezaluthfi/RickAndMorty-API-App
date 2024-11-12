@@ -1,6 +1,5 @@
-package com.example.rickandmortyapiapp.network
+package com.example.rickandmortyapiapp.model
 
-import com.example.rickandmortyapiapp.model.Characters
 import com.google.gson.annotations.SerializedName
 
 data class CharactersResponse(
